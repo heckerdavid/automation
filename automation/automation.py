@@ -20,3 +20,4 @@ with open('./automation/emails.txt', 'w') as file:
     for email in potential_emails:
         file.write(email)
         file.write('\n')
+
