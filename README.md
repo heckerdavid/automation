@@ -8,3 +8,5 @@
 * Once emails and phone numbers are found they should be stored in two separate documents.
 * The information should be sorted in ascending order.
 * Duplicate entries are not allowed.
+
+PR: https://github.com/heckerdavid/automation/pull/1
